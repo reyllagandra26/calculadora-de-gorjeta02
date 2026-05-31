@@ -139,3 +139,18 @@ main{
     color: var(--light-green);
     font-size: 2rem;
 }
+
+.resultados .gorjeta-total {
+    margin-bottom: 1.25rem;
+}
+
+.resultados button {
+    width: 100%;
+    background-color: var(--light-green);
+    border: none;
+    color: var(--green-800);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    padding-block: 0.5rem;
+}
