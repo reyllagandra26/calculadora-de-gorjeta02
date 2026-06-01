@@ -129,7 +129,7 @@ cursor: pointer;
 }
 
 .pessoas #erro-div {
-outline: 2px solid var(--danger);
+    outline: 2px solid var(--danger);
 }
 
 .pessoas #erro {
